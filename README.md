@@ -6,10 +6,10 @@ Selected publications below provide evidence of my experimental biology research
 
 | Research Area | Research Focus | Selected Publication | Key Figure |
 |---|---|---|---|
-| 🧫 **Microbial Biotechnology** | Microbial applications in biological and aquaculture systems | [View publications](https://scholar.google.com/citations?user=TokimwYAAAAJ&hl=en) | — |
-| 🐟 **Fish Biology & Aquaculture** | Fish biology, physiology, and aquaculture systems | [View publications](https://scholar.google.com/citations?user=TokimwYAAAAJ&hl=en) | — |
-| 🦠 **Fish Health & Parasitology** | Ectoparasites, disease management, and treatment in cultured fish | [View publication](https://doi.org/10.1007/s10499-023-01263-1) | ![Ectoparasite research](YOUR_IMAGE_URL) |
-| 🔬 **Histopathology & Physiology** | Gill integrity and physiological responses under environmental conditions | [View publications](https://scholar.google.com/citations?user=TokimwYAAAAJ&hl=en) | ![Histopathology](YOUR_IMAGE_URL) |
+| 🧫 **Microbial Biotechnology** | Microbial applications in biological and aquaculture systems | [view research paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=9IzLolIAAAAJ&citation_for_view=9IzLolIAAAAJ:M05iB0D1s5AC) | — |
+| 🐟 **Fish Biology & Aquaculture** | Fish biology and aquaculture systems | [view Book chapter](https://www.intechopen.com/chapters/57327) | — |
+| 🦠 **Fish Health & Parasitology** | Ectoparasites, disease management, and treatment in cultured fish | [view research paper](https://link.springer.com/article/10.1007/s10499-023-01383-2) | ![Ectoparasite research](YOUR_IMAGE_URL) |
+| 🔬 **Histopathology & Physiology** | Gill integrity and physiological responses under environmental conditions | [view conference poster](https://www.researchgate.net/publication/337275413_Gill_integrity_of_juvenile_pikeperch_Sander_lucioperca_under_saline_conditions_in_recirculating_aquaculture_systems) | ![Histopathology](YOUR_IMAGE_URL) |
 
 ### Academic Profiles
 
