@@ -6,10 +6,10 @@ Selected publications below provide evidence of my experimental biology research
 
 | Research Area | Research Focus | Selected Publication | Key Figure |
 |---|---|---|---|
-| 🧫 **Microbial Biotechnology** | Microbial applications in biological and aquaculture systems | [view research paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=9IzLolIAAAAJ&citation_for_view=9IzLolIAAAAJ:M05iB0D1s5AC) | — |
-| 🐟 **Fish Biology & Aquaculture** | Fish biology and aquaculture systems | [view Book chapter](https://www.intechopen.com/chapters/57327) | — |
-| 🦠 **Fish Health & Parasitology** | Ectoparasites, disease management, and treatment in cultured fish | [view research paper](https://link.springer.com/article/10.1007/s10499-023-01383-2) | ![Ectoparasite research](YOUR_IMAGE_URL) |
-| 🔬 **Histopathology & Physiology** | Gill integrity and physiological responses under environmental conditions | [view conference poster](https://www.researchgate.net/publication/337275413_Gill_integrity_of_juvenile_pikeperch_Sander_lucioperca_under_saline_conditions_in_recirculating_aquaculture_systems) | ![Histopathology](YOUR_IMAGE_URL) |
+| 🧫 **Microbial Biotechnology** | Microbial applications in biological and aquaculture systems | [view research paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=9IzLolIAAAAJ&citation_for_view=9IzLolIAAAAJ:M05iB0D1s5AC) | ![microbial components](https://github.com/harishmuh/experimental-biology/blob/main/assets/figures/microbial_biotechnology_2.PNG?raw=true) |
+| 🐟 **Fish Biology & Aquaculture** | Fish biology and aquaculture systems | [view book chapter](https://www.intechopen.com/chapters/57327) | ![zwd_images](https://github.com/harishmuh/experimental-biology/blob/main/assets/figures/zwd_systems.png?raw=true) |
+| 🦠 **Fish Health & Parasitology** | Ectoparasites, disease management, and treatment in cultured fish | [view research paper](https://link.springer.com/article/10.1007/s10499-023-01383-2) | ![Ectoparasites](https://github.com/harishmuh/experimental-biology/blob/main/assets/figures/fish_parasites_1.PNG?raw=true) |
+| 🔬 **Histopathology & Physiology** | Gill integrity and physiological responses under environmental conditions | [view conference poster](https://www.researchgate.net/publication/337275413_Gill_integrity_of_juvenile_pikeperch_Sander_lucioperca_under_saline_conditions_in_recirculating_aquaculture_systems) | ![Histopathological alteration](https://github.com/harishmuh/experimental-biology/blob/main/assets/figures/gill_histopathology_2.PNG?raw=true) |
 
 ### Academic Profiles
 
