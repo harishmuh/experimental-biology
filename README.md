@@ -2,7 +2,7 @@
 
 My research background includes **microbial biotechnology, aquaculture, fish biology, aquatic animal health, parasitology, and histopathology**.
 
-Selected publications below provide evidence of my experimental biology research experience.
+The publications below provide an overview of my experimental biology research experience.
 
 | Research Area | Research Focus | Selected Publication | Key Figure |
 |---|---|---|---|
