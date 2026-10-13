@@ -1,3 +1,7 @@
+
+
+
+
 **Peer reviewed journal articles**
 
 1. NaCl treatment against trichodiniasis, 2024
@@ -95,7 +99,7 @@ IntechOpen
 
 
 
- # Research Publications
+# Research Publications
 
 My research publications span aquaculture health, biological systems, water quality, and sustainable aquaculture. These studies reflect my background in experimental biology and life science research, which I am now extending toward computational biology and machine learning for disease prediction.
 
@@ -103,20 +107,38 @@ My research publications span aquaculture health, biological systems, water qual
 
 ## Journal Articles
 
-1. Naas, C., **Muhammad, H.**, Kloas, W., et al. (2024). [Sodium chloride (NaCl) as a treatment against trichodiniasis for pike perch (*Sander lucioperca*) in recirculating aquaculture systems](https://doi.org/10.1007/s10499-023-01383-2). *Aquaculture International, 32*, 4449–4464.
+1. NaCl treatment against trichodiniasis, 2024
+* Naas, C., **Muhammad, H.**, Kloas, W., et al. (2024). [Sodium chloride (NaCl) as a treatment against trichodiniasis for pike perch (*Sander lucioperca*) in recirculating aquaculture systems](https://doi.org/10.1007/s10499-023-01383-2). *Aquaculture International, 32*, 4449–4464.
+* Links: DOI · Publisher Page · [Full text](https://github.com/harishmuh/experimental-biology/blob/main/assets/papers/Aquaculture%20International.pdf)
 
-2. Saparuddin, Yanti, Salim, & **Muhammad, H.** (2020). [Hematological response of tilapia (*Oreochromis niloticus*) in laundry wastewater](https://doi.org/10.24252/bio.v8i1.13137). *Biogenesis: Jurnal Ilmiah Biologi, 8*(1), 69–78.
+2. Tilapia hematological response, 2020
+* Saparuddin, Yanti, Salim, & **Muhammad, H.** (2020). [Hematological response of tilapia (*Oreochromis niloticus*) in laundry wastewater](https://doi.org/10.24252/bio.v8i1.13137). *Biogenesis: Jurnal Ilmiah Biologi, 8*(1), 69–78.
+* Links: DOI · Publisher Page · [Full text](https://github.com/harishmuh/experimental-biology/blob/main/assets/papers/Aquaculture%20International.pdf)
 
-3. Rahim, R., Suantika, G., & **Muhammad, H.** (2018). [Performance of zero water discharge (ZWD) system with nitrifying bacteria and microalgae components in super intensive Pacific white shrimp culture at low salinity](https://doi.org/10.19027/jai.17.2.137-146). *Jurnal Akuakultur Indonesia, 17*(2), 137–146.
+3. Zero water discharge system at low salinity, 2018
+* Rahim, R., Suantika, G., & **Muhammad, H.** (2018). [Performance of zero water discharge (ZWD) system with nitrifying bacteria and microalgae components in super intensive Pacific white shrimp culture at low salinity](https://doi.org/10.19027/jai.17.2.137-146). *Jurnal Akuakultur Indonesia, 17*(2), 137–146.
+* Links: DOI · [Publisher Page]() · [Full text](https://github.com/harishmuh/experimental-biology/blob/main/assets/papers/Jurnal%20Biogenesis.pdf)
 
-4. **Muhammad, H.**, et al. (2016). [Biological, technical, and financial feasibility of zero water discharge system application in low salinity white shrimp urban aquaculture](https://doi.org/10.4172/2332-2608.1000197). *Journal of Fisheries & Livestock Production, 4*(4).
+4. Biological, technical, and financial feasibility of ZWD, 2016
+* **Muhammad, H.**, et al. (2016). [Biological, technical, and financial feasibility of zero water discharge system application in low salinity white shrimp urban aquaculture](https://doi.org/10.4172/2332-2608.1000197). *Journal of Fisheries & Livestock Production, 4*(4).
+* Links: DOI · [Publisher Page](https://www.omicsonline.org/open-access/biological-technical-and-financial-feasibilities-study-of-zero-waterdischarge-zwd-system-application-in-low-salinity-white-shrimpl-2332-2608-1000197.php?aid=83574) · [Full text](https://github.com/harishmuh/experimental-biology/blob/main/assets/papers/Journal%20of%20Poultry%20Fisheries%20and%20Wildlife%20sciences.pdf)
 
-5. Suantika, G., **Muhammad, H.**, et al. (2016). [The use of cyanobacteria and cladoceran as complementary protein and lipid sources in transitional diet for common carp nursery](https://doi.org/10.4236/nr.2016.77037). *Natural Resources, 7*, 423–433.
+5. Cyanobacteria and cladoceran as complementary feed, 2016
+* Suantika, G., **Muhammad, H.**, et al. (2016). [The use of cyanobacteria and cladoceran as complementary protein and lipid sources in transitional diet for common carp nursery](https://doi.org/10.4236/nr.2016.77037). *Natural Resources, 7*, 423–433.
+* Links: DOI · [Publisher Page](https://www.scirp.org/journal/paperinformation?paperid=68196) · [Full text](https://github.com/harishmuh/experimental-biology/blob/main/assets/papers/Journal%20of%20Natural%20Resources.pdf)
 
-6. Suantika, G., et al., **Muhammad, H.**, et al. (2016). [Ammonium removal by nitrifying bacteria biofilm on limestone and bioball substrate established in freshwater trickling biofilter](https://doi.org/10.4172/2375-446X.1000157). *Poultry, Fisheries & Wildlife Sciences, 4*(2).
 
-7. Suantika, G., Lumbantoruan, G., **Muhammad, H.**, et al. (2015). [Performance of zero water discharge system with nitrifying bacteria and microalgae components in super intensive white shrimp culture](https://doi.org/10.4172/2155-9546.1000359). *Journal of Aquaculture Research & Development, 6*(9).
+6. Ammonium removal using nitrifying biofilms, 2016
+* Suantika, G., et al., **Muhammad, H.**, et al. (2016). [Ammonium removal by nitrifying bacteria biofilm on limestone and bioball substrate established in freshwater trickling biofilter](https://doi.org/10.4172/2375-446X.1000157). *Poultry, Fisheries & Wildlife Sciences, 4*(2).
+* Links: DOI · [Publisher Page]() · [Full text](https://github.com/harishmuh/experimental-biology/blob/main/assets/papers/Journal%20of%20Fisheries%20and%20Livestock%20Production.pdf)
+
+
+7. Zero water discharge system for white shrimp, 2015
+* Suantika, G., Lumbantoruan, G., **Muhammad, H.**, et al. (2015). [Performance of zero water discharge system with nitrifying bacteria and microalgae components in super intensive white shrimp culture](https://doi.org/10.4172/2155-9546.1000359). *Journal of Aquaculture Research & Development, 6*(9).
+* Links: DOI · [Publisher Page]() · [Full text](https://github.com/harishmuh/experimental-biology/blob/main/assets/papers/Journal%20of%20Aquaculture%20Research%20and%20Development.pdf)
 
 ## Book Chapters
 
-1. Suantika, G., et al., **Muhammad, H.** (2017). [Closed aquaculture system: Zero water discharge for shrimp and prawn farming in Indonesia](https://doi.org/10.5772/intechopen.70944). In *Biological Resources of Water* (pp. 298–327). IntechOpen.
+Closed Aquaculture System: Zero Water Discharge for Shrimp and Prawn Farming in Indonesia
+* Suantika, G., et al., **Muhammad, H.** (2017). [Closed aquaculture system: Zero water discharge for shrimp and prawn farming in Indonesia](https://doi.org/10.5772/intechopen.70944). In *Biological Resources of Water* (pp. 298–327). IntechOpen. DOI: 10.5772/intechopen.70944
+* Links: DOI · [Publisher Page](https://www.intechopen.com/chapters/57327) · [Full text](https://github.com/harishmuh/experimental-biology/blob/main/assets/papers/Closed%20Aquaculture%20System-%20Zero%20Water%20Discharge%20for%20Shrimp%20and%20Prawn%20Farming%20in%20Indonesia.pdf)
