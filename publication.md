@@ -22,9 +22,9 @@ Saparuddin, Yanti, Salim, & **Muhammad, H.** (2020). Hematological response of t
 
 Rahim, R., Suantika, G., & **Muhammad, H.** (2018). Performance of zero water discharge (ZWD) system with nitrifying bacteria *Bacillus megaterium* and microalgae *Chaetoceros calcitrans* components in super intensive Pacific white shrimp (*Litopenaeus vannamei*) culture at low salinity. *Jurnal Akuakultur Indonesia, 17*(2), 137–146.
 
-**Links:** [DOI](https://doi.org/10.19027/jai.17.2.137-146) · [Official journal issue and article PDF](https://journal.ipb.ac.id/jai/issue/view/2181)
+**Links:** [DOI](https://doi.org/10.19027/jai.17.2.137-146) · [Official journal issue and article PDF](https://journal.ipb.ac.id/jai/issue/view/2181) · [Full text PDF](https://github.com/harishmuh/experimental-biology/blob/main/assets/papers/Jurnal%20akuakultur%20Indonesia.pdf)
 
-*Note: Add a separate full text link when you upload the correct PDF for this article.*
+
 
 ### 4. Biological, Technical, and Financial Feasibility of Zero Water Discharge (2016)
 
