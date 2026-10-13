@@ -2,7 +2,10 @@
 
 My research publications span aquaculture health, biological systems, water quality, and sustainable aquaculture. These studies reflect my background in experimental biology and life science research, which I am now extending toward computational biology and machine learning for disease prediction.
 
-**Research profile:** [Google Scholar](https://scholar.google.com/citations?user=TokimwYAAAAJ&hl=en)
+**Research profile:**
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=TokimwYAAAAJ&hl=en)
+[![ORCID](https://img.shields.io/badge/ORCID-Profile-A6CE39?style=flat-square&logo=orcid&logoColor=white)](YOUR_ORCID_URL)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Harish-Muhammad-2)
 
 ## Journal Articles
 
