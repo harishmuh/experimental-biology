@@ -11,7 +11,12 @@ The publications below provide an overview of my experimental biology research e
 | 🦠 **Fish Health & Parasitology** | Ectoparasites, disease management, and treatment in cultured fish | [view research paper](https://link.springer.com/article/10.1007/s10499-023-01383-2) | ![Ectoparasites](https://github.com/harishmuh/experimental-biology/blob/main/assets/figures/fish_parasites_1.PNG?raw=true) |
 | 🔬 **Histopathology & Physiology** | Gill integrity and physiological responses under environmental conditions | [view conference poster](https://www.researchgate.net/publication/337275413_Gill_integrity_of_juvenile_pikeperch_Sander_lucioperca_under_saline_conditions_in_recirculating_aquaculture_systems) | ![Histopathological alteration](https://github.com/harishmuh/experimental-biology/blob/main/assets/figures/gill_histopathology_2.PNG?raw=true) |
 
-### Academic Profiles
+
+
+### Complete Publication Record
+
+For the full list of my peer-reviewed journal articles and book chapters, including DOI links and publication details, see the [Complete Publication List](publications.md).
+
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=TokimwYAAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID-Profile-A6CE39?style=flat-square&logo=orcid&logoColor=white)](YOUR_ORCID_URL)
