@@ -15,7 +15,7 @@ The publications below provide an overview of my experimental biology research e
 
 ### Complete Publication Record
 
-For the full list of my peer-reviewed journal articles and book chapters, including DOI links and publication details, see the [Complete Publication List](publication.md).
+For the full list of my peer-reviewed journal articles and book chapters, including DOI links and publication details, see the complete publication list → [View all publications](publication.md).
 
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=TokimwYAAAAJ&hl=en)
