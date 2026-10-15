@@ -60,3 +60,37 @@ Suantika, G., Lumbantoruan, G., **Muhammad, H.**, Azizah, F. F. N., & Aditiawati
 Suantika, G., Situmorang, M. L., Aditiawati, P., Astuti, D. I., Azizah, F. F. N., & **Muhammad, H.** (2017). Closed aquaculture system: Zero water discharge for shrimp and prawn farming in Indonesia. In *Biological resources of water* (pp. 298–327). IntechOpen.
 
 **Links:** [DOI](https://doi.org/10.5772/intechopen.70944) · [Publisher page](https://www.intechopen.com/chapters/57327) · [Full text PDF](https://github.com/harishmuh/experimental-biology/blob/main/assets/papers/Closed%20Aquaculture%20System-%20Zero%20Water%20Discharge%20for%20Shrimp%20and%20Prawn%20Farming%20in%20Indonesia.pdf)
+
+
+## Conference Presentations & Scientific Talks
+
+### 1. Integrating Insights for Sustainable Aquatic Systems: Exchanging Perspectives Between the Netherlands and Indonesia (2023)
+
+**Muhammad, H.** (2023). *Sodium Chloride as an alternative prevention and treatment against Trichodiniasis for Pikeperch (Sander lucioperca) in Recirculating Aquaculture System RAS* Poster presentation at the Joint Seminar between Wageningen University and Institut Teknologi Bandung (ITB). Bandung, Indonesia, June 23, 2023.
+
+**Links:** [Poster PDF](assets/posters/poster_aquaculture_exchangeAFI.pdf) · [Certificate](assets/certificates/Certificate_Seminar_Harish_Muhammad.pdf)
+
+### 2. Examination of the Effect of Elevated NaCl Concentrations on Ectoparasite Burden in Pikeperch (2020)
+
+**Muhammad, H.**, Naas, C., Müller-Belecke, A., & Kloas, W. (2020). *Examination of the effect of elevated NaCl concentrations on the burden of ectoparasites Trichodinids and Dactylogyrids on pikeperch (Sander lucioperca) maintained in recirculating aquaculture systems.* Poster presented at Aquaculture Europe 2020.
+
+**Links:** [Poster PDF](assets/posters/Aquaculture_Europe_2020.pdf)
+
+### 3. Closed System Aquaculture (2020)
+
+**Muhammad, H.** (2020). *Closed System Aquaculture.* Innovative idea presented at Pitching Nation 2020, organized by Earthling Indonesia and the Embassy of the Republic of Indonesia in Berlin, Germany, November 14, 2020.
+
+**Links:** [Certificate of Participation](assets/certificates/Pitching_Nation_2020.png)
+
+### 4. Gill Integrity of Juvenile Pikeperch Under Saline Conditions in Recirculating Aquaculture Systems (2019)
+
+**Muhammad, H.**, Naas, C., Kloas, W., & Müller-Belecke, A. (2019). *Gill integrity of juvenile pikeperch (Sander lucioperca) under saline conditions in recirculating aquaculture systems.* Poster presented in Magdeburg, German Fishery Day 2019.
+
+**Links:** [Poster PDF](assets/posters/German_Fishery_Day_2019.pdf)
+
+### 5. Biological, Technical, and Financial Feasibility of a Zero Water Discharge System for White Shrimp Aquaculture (2016)
+
+**Muhammad, H.**, & Suantika, G. (2016). *Biological, technical, and financial feasibility study of zero water discharge (ZWD) system application in low salinity white shrimp (Litopenaeus vannamei) urban aquaculture.* Research poster presented at the School of Life Sciences and Technology (SITH) Graduation event, Institut Teknologi Bandung (ITB), Bandung, Indonesia.
+
+**Links:** [Poster PDF](assets/posters/ITB_2016_ZWD_White_Shrimp.pdf)
+
