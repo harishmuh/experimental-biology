@@ -80,7 +80,7 @@ Suantika, G., Situmorang, M. L., Aditiawati, P., Astuti, D. I., Azizah, F. F. N.
 
 **Muhammad, H.** (2020). *Closed System Aquaculture.* Innovative idea/scientific talk presented at Pitching Nation 2020, organized by Earthling Indonesia and the Embassy of the Republic of Indonesia in Berlin, Germany, November 14, 2020.
 
-**Links:** [Seminar slide](https://github.com/harishmuh/experimental-biology/blob/main/assets/slides/2.%20GAIN%20-%20Green%20Aquaculture%20for%20Indonesia_Harish%20Muhammad.pdf) · [Certificate of Participation](https://github.com/harishmuh/experimental-biology/blob/main/assets/certificates/talks%20-%20pitching%20nation.png)
+**Links:** [Seminar slide](https://github.com/harishmuh/experimental-biology/blob/main/assets/slides/2.%20GAIN%20-%20Green%20Aquaculture%20for%20Indonesia_Harish%20Muhammad.pdf) · [Certificate](https://github.com/harishmuh/experimental-biology/blob/main/assets/certificates/talks%20-%20pitching%20nation.png)
 
 ### 4. Gill Integrity of Juvenile Pikeperch Under Saline Conditions in Recirculating Aquaculture Systems (2019)
 
