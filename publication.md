@@ -66,21 +66,21 @@ Suantika, G., Situmorang, M. L., Aditiawati, P., Astuti, D. I., Azizah, F. F. N.
 
 ### 1. Integrating Insights for Sustainable Aquatic Systems: Exchanging Perspectives Between the Netherlands and Indonesia (2023)
 
-**Muhammad, H.** (2023). *Sodium Chloride as an alternative prevention and treatment against Trichodiniasis for Pikeperch (Sander lucioperca) in Recirculating Aquaculture System RAS* Poster presentation at the Joint Seminar between Wageningen University and Institut Teknologi Bandung (ITB). Bandung, Indonesia, June 23, 2023.
+**Muhammad, H.** (2023). *Sodium Chloride as an alternative prevention and treatment against Trichodiniasis for Pikeperch (Sander lucioperca) in Recirculating Aquaculture Systems (RAS).* Poster presentation at the Joint Seminar between Wageningen University and Institut Teknologi Bandung (ITB). Bandung, Indonesia, June 23, 2023.
 
-**Links:** [Poster PDF](assets/posters/poster_aquaculture_exchangeAFI.pdf) · [Certificate](assets/certificates/Certificate_Seminar_Harish_Muhammad.pdf)
+**Links:** [Poster PDF](assets/posters/poster_aquaculture_exchangeAFI.pdf) · [Certificate](https://github.com/harishmuh/experimental-biology/blob/main/assets/certificates/talk%20certificates%20-%20exchange%20afi%20.pdf)
 
-### 2. Examination of the Effect of Elevated NaCl Concentrations on Ectoparasite Burden in Pikeperch (2020)
+### 2. Examination of the Effect of Elevated NaCl Concentrations on Ectoparasite Burden in Pikeperch (2021)
 
-**Muhammad, H.**, Naas, C., Müller-Belecke, A., & Kloas, W. (2020). *Examination of the effect of elevated NaCl concentrations on the burden of ectoparasites Trichodinids and Dactylogyrids on pikeperch (Sander lucioperca) maintained in recirculating aquaculture systems.* Poster presented at Aquaculture Europe 2020.
+**Muhammad, H.**, Naas, C., Müller-Belecke, A., & Kloas, W. (2020). *Examination of the effect of elevated NaCl concentrations on the burden of ectoparasites Trichodinids and Dactylogyrids on pikeperch (Sander lucioperca) maintained in recirculating aquaculture systems.* Poster presented at Aquaculture Europe 2020, April 12-15, 2021.
 
-**Links:** [Poster PDF](assets/posters/Aquaculture_Europe_2020.pdf)
+**Links:** [Poster PDF](assets/posters/Aquaculture_Europe_2020.pdf) · [Certificate](https://github.com/harishmuh/experimental-biology/blob/main/assets/certificates/Certificate%20of%20presentation_Aquaculture%20Europe%202020.pdf)
 
 ### 3. Closed System Aquaculture (2020)
 
-**Muhammad, H.** (2020). *Closed System Aquaculture.* Innovative idea presented at Pitching Nation 2020, organized by Earthling Indonesia and the Embassy of the Republic of Indonesia in Berlin, Germany, November 14, 2020.
+**Muhammad, H.** (2020). *Closed System Aquaculture.* Innovative idea/scientific talk presented at Pitching Nation 2020, organized by Earthling Indonesia and the Embassy of the Republic of Indonesia in Berlin, Germany, November 14, 2020.
 
-**Links:** [Certificate of Participation](assets/certificates/Pitching_Nation_2020.png)
+**Links:** [Seminar slide](https://github.com/harishmuh/experimental-biology/blob/main/assets/slides/2.%20GAIN%20-%20Green%20Aquaculture%20for%20Indonesia_Harish%20Muhammad.pdf) · [Certificate of Participation](https://github.com/harishmuh/experimental-biology/blob/main/assets/certificates/talks%20-%20pitching%20nation.png)
 
 ### 4. Gill Integrity of Juvenile Pikeperch Under Saline Conditions in Recirculating Aquaculture Systems (2019)
 
@@ -90,7 +90,7 @@ Suantika, G., Situmorang, M. L., Aditiawati, P., Astuti, D. I., Azizah, F. F. N.
 
 ### 5. Biological, Technical, and Financial Feasibility of a Zero Water Discharge System for White Shrimp Aquaculture (2016)
 
-**Muhammad, H.**, & Suantika, G. (2016). *Biological, technical, and financial feasibility study of zero water discharge (ZWD) system application in low salinity white shrimp (Litopenaeus vannamei) urban aquaculture.* Research poster presented at the School of Life Sciences and Technology (SITH) Graduation event, Institut Teknologi Bandung (ITB), Bandung, Indonesia.
+**Muhammad, H.**, & Suantika, G. (2016). *Biological, technical, and financial feasibility study of zero water discharge (ZWD) system application in low salinity white shrimp (Litopenaeus vannamei) urban aquaculture.* Research poster presented at the School of Life Sciences and Technology (SITH) Graduation event - July 2016, Institut Teknologi Bandung (ITB), Bandung, Indonesia.
 
 **Links:** [Poster PDF](assets/posters/ITB_2016_ZWD_White_Shrimp.pdf)
 
