@@ -92,5 +92,5 @@ Suantika, G., Situmorang, M. L., Aditiawati, P., Astuti, D. I., Azizah, F. F. N.
 
 **Muhammad, H.**, & Suantika, G. (2016). *Biological, technical, and financial feasibility study of zero water discharge (ZWD) system application in low salinity white shrimp (Litopenaeus vannamei) urban aquaculture.* Research poster presented at the School of Life Sciences and Technology (SITH) Graduation event - July 2016, Institut Teknologi Bandung (ITB), Bandung, Indonesia.
 
-**Links:** [Poster PDF](assets/posters/ITB_2016_ZWD_White_Shrimp.pdf)
+**Links:** [Poster PDF](https://github.com/harishmuh/experimental-biology/blob/main/assets/posters/ITB%202016%20Biological%20and%20Financial%20Feasibility%20study%20of%20zero%20water%20discharge%20system%20application%20in%20white%20shrimp%20aquaculture.pdf)
 
