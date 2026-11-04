@@ -86,7 +86,7 @@ Suantika, G., Situmorang, M. L., Aditiawati, P., Astuti, D. I., Azizah, F. F. N.
 
 **Muhammad, H.**, Naas, C., Kloas, W., & Müller-Belecke, A. (2019). *Gill integrity of juvenile pikeperch (Sander lucioperca) under saline conditions in recirculating aquaculture systems.* Poster presented in Magdeburg, German Fishery Day 2019.
 
-**Links:** [Poster PDF](assets/posters/German_Fishery_Day_2019.pdf)
+**Links:** [Poster PDF](https://github.com/harishmuh/experimental-biology/blob/main/assets/posters/German%20Fishery%20Day%202019%20-%20Gill%20Integrity%20of%20juvenile%20Pike%20Perch%20under%20Saline%20Condition%20in%20RAS.pdf)
 
 ### 5. Biological, Technical, and Financial Feasibility of a Zero Water Discharge System for White Shrimp Aquaculture (2016)
 
